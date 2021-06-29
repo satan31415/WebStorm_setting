@@ -4,5 +4,7 @@
     <option name="enabledPsiIcons" value="false" />
     <option name="isEnabledIcons" value="false" />
     <option name="isEnabledPsiIcons" value="false" />
+    <option name="accentColor" value="ffffff" />
+    <option name="themedColor" value="000000" />
   </component>
 </application>
