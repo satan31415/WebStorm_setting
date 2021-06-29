@@ -1,0 +1,68 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="496" />
+    <option name="newTranslationDialogX" value="815" />
+    <option name="newTranslationDialogY" value="490" />
+    <histories>
+      <item value="getForContractExecutionStatus" />
+      <item value="forContractExecutionStatus" />
+      <item value="With statement is not allowed in strict mode" />
+      <item value="processData`" />
+      <item value="processData" />
+      <item value="tu" />
+      <item value="订货成本计算" />
+      <item value="ding" />
+      <item value="percentage" />
+      <item value="percentageInput" />
+      <item value="distinct" />
+      <item value="检查&#10;&#10;" />
+      <item value="校验&#10;" />
+      <item value="checkdata" />
+      <item value="check" />
+      <item value="加签" />
+      <item value="解锁&#10;" />
+      <item value="拒绝" />
+      <item value="驳回" />
+      <item value="precision" />
+      <item value="小数&#10;" />
+      <item value="精度" />
+      <item value="进度" />
+      <item value="百分比" />
+      <item value="队列&#10;" />
+      <item value="is_overseas" />
+      <item value="is_domestic" />
+      <item value="合同文本" />
+      <item value="合同" />
+      <item value="notice_info" />
+      <item value="精度&#10;" />
+      <item value="下单审批" />
+      <item value="下单" />
+      <item value="附件&#10;" />
+      <item value="Cannot read property 'salerId' of undefined" />
+      <item value="accessToRelatedContract" />
+      <item value="projectTrackingColumns" />
+      <item value="校验" />
+      <item value="nei&#10;" />
+      <item value="knot" />
+      <item value="使用现金池" />
+      <item value="使用&#10;现金池" />
+      <item value="现金池" />
+      <item value="filterContractTemplate" />
+      <item value="合同模板&#10;" />
+      <item value="Local variable 'arr2' is redundant " />
+      <item value="不确定" />
+      <item value="contains" />
+      <item value="清单&#10;" />
+      <item value="编辑" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="67" />
+        <entry key="ENGLISH" value="36" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1624795970232" />
+  </component>
+</application>
