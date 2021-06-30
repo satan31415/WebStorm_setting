@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="496" />
+    <option name="newTranslationDialogWidth" value="492" />
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="490" />
     <histories>
+      <item value="币种" />
       <item value="getForContractExecutionStatus" />
       <item value="forContractExecutionStatus" />
       <item value="With statement is not allowed in strict mode" />
@@ -53,7 +54,6 @@
       <item value="不确定" />
       <item value="contains" />
       <item value="清单&#10;" />
-      <item value="编辑" />
     </histories>
     <option name="languageScores">
       <map>
