@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="490" />
     <histories>
+      <item value="annex" />
       <item value="币种" />
       <item value="getForContractExecutionStatus" />
       <item value="forContractExecutionStatus" />
@@ -53,16 +54,15 @@
       <item value="Local variable 'arr2' is redundant " />
       <item value="不确定" />
       <item value="contains" />
-      <item value="清单&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="67" />
+        <entry key="CHINESE" value="68" />
         <entry key="ENGLISH" value="36" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1624795970232" />
+    <option name="lastTrimTime" value="1625468667941" />
   </component>
 </application>
