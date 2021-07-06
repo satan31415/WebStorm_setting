@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="490" />
     <histories>
+      <item value="insert" />
       <item value="Purch" />
       <item value="Sells" />
       <item value="annex" />
@@ -53,11 +54,10 @@
       <item value="现金池" />
       <item value="filterContractTemplate" />
       <item value="合同模板&#10;" />
-      <item value="Local variable 'arr2' is redundant " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="70" />
+        <entry key="CHINESE" value="71" />
         <entry key="ENGLISH" value="36" />
       </map>
     </option>
