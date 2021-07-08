@@ -1,9 +1,12 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="492" />
+    <option name="newTranslationDialogWidth" value="488" />
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="490" />
     <histories>
+      <item value="过滤合同模板" />
+      <item value="过滤合同" />
+      <item value="过滤" />
       <item value="字典&#10;" />
       <item value="字典" />
       <item value="z" />
@@ -51,9 +54,6 @@
       <item value="projectTrackingColumns" />
       <item value="校验" />
       <item value="nei&#10;" />
-      <item value="knot" />
-      <item value="使用现金池" />
-      <item value="使用&#10;现金池" />
     </histories>
     <option name="languageScores">
       <map>
