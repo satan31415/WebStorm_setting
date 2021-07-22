@@ -1,9 +1,13 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="452" />
-    <option name="newTranslationDialogX" value="611" />
-    <option name="newTranslationDialogY" value="415" />
+    <option name="newTranslationDialogHeight" value="355" />
+    <option name="newTranslationDialogWidth" value="650" />
+    <option name="newTranslationDialogX" value="556" />
+    <option name="newTranslationDialogY" value="446" />
     <histories>
+      <item value="row&#10;" />
+      <item value="col&#10;" />
+      <item value="Uncaught (in promise) TypeError: Cannot read property 'props' of undefined" />
       <item value="is_domestic" />
       <item value="actual Account" />
       <item value="actualAccount" />
@@ -51,13 +55,10 @@
       <item value="加签" />
       <item value="解锁&#10;" />
       <item value="拒绝" />
-      <item value="驳回" />
-      <item value="precision" />
-      <item value="小数&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="87" />
+        <entry key="CHINESE" value="89" />
         <entry key="ENGLISH" value="43" />
       </map>
     </option>
