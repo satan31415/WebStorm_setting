@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="355" />
-    <option name="newTranslationDialogWidth" value="650" />
+    <option name="newTranslationDialogWidth" value="646" />
     <option name="newTranslationDialogX" value="556" />
     <option name="newTranslationDialogY" value="446" />
     <histories>
+      <item value="后缀" />
       <item value="row&#10;" />
       <item value="col&#10;" />
       <item value="Uncaught (in promise) TypeError: Cannot read property 'props' of undefined" />
@@ -54,12 +55,11 @@
       <item value="check" />
       <item value="加签" />
       <item value="解锁&#10;" />
-      <item value="拒绝" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="89" />
-        <entry key="ENGLISH" value="43" />
+        <entry key="CHINESE" value="91" />
+        <entry key="ENGLISH" value="45" />
       </map>
     </option>
   </component>
