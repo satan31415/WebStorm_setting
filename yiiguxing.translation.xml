@@ -1,13 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="355" />
-    <option name="newTranslationDialogWidth" value="630" />
+    <option name="newTranslationDialogWidth" value="626" />
     <option name="newTranslationDialogX" value="556" />
     <option name="newTranslationDialogY" value="446" />
     <histories>
+      <item value="权限" />
       <item value="accountsReceivableSubsidiary" />
       <item value="权限分配" />
-      <item value="权限" />
       <item value="q" />
       <item value="快速工具" />
       <item value="工具" />
