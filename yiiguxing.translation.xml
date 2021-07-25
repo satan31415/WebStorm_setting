@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="355" />
-    <option name="newTranslationDialogWidth" value="622" />
+    <option name="newTranslationDialogWidth" value="610" />
     <option name="newTranslationDialogX" value="556" />
     <option name="newTranslationDialogY" value="446" />
     <histories>
+      <item value="proactive" />
+      <item value="inTransit" />
+      <item value="inventory" />
       <item value="Component is missing template or render function. " />
       <item value="权限" />
       <item value="accountsReceivableSubsidiary" />
@@ -52,13 +55,10 @@
       <item value="forContractExecutionStatus" />
       <item value="With statement is not allowed in strict mode" />
       <item value="processData`" />
-      <item value="processData" />
-      <item value="tu" />
-      <item value="订货成本计算" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="96" />
+        <entry key="CHINESE" value="99" />
         <entry key="ENGLISH" value="46" />
       </map>
     </option>
