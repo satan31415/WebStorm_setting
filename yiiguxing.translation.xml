@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="355" />
-    <option name="newTranslationDialogWidth" value="626" />
+    <option name="newTranslationDialogWidth" value="622" />
     <option name="newTranslationDialogX" value="556" />
     <option name="newTranslationDialogY" value="446" />
     <histories>
+      <item value="Component is missing template or render function. " />
       <item value="权限" />
       <item value="accountsReceivableSubsidiary" />
       <item value="权限分配" />
@@ -54,16 +55,15 @@
       <item value="processData" />
       <item value="tu" />
       <item value="订货成本计算" />
-      <item value="ding" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="95" />
+        <entry key="CHINESE" value="96" />
         <entry key="ENGLISH" value="46" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1626637464467" />
+    <option name="lastTrimTime" value="1627224832074" />
   </component>
 </application>
